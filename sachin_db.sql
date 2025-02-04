@@ -1,0 +1,1 @@
+SELECT * FROM test_db.blink_database;
